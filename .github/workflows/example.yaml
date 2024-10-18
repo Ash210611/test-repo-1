@@ -1,6 +1,6 @@
 name: Example Reusable Workflow
 on:
-  workflow_call:
+  workflow_dispatch:
 jobs:
   # This workflow contains a single job called "build"
   build:
